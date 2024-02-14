@@ -14,11 +14,11 @@
     "test": "vitest"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.7",
     "lodash.clonedeep": "^4.5.0",
     "lodash.throttle": "^4.1.1",
-    "logform": "^2.5.1",
-    "winston-transport": "^4.2.0"
+    "logform": "^2.6.0",
+    "winston-transport": "^4.7.0"
   },
   "devDependencies": {
     "@types/lodash.clonedeep": "^4.5.7",
